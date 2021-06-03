@@ -1,6 +1,6 @@
 #poicion-123456789
 """
-texto = 'Tercio Santos Silveira'
+texto = 'Abc Def Ghij'
 buscar = 'Santos'
 tamanho = len(buscar)
 indice = texto.find(buscar)
